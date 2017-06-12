@@ -1,13 +1,13 @@
 /**
  * Created by Amberlee on 6/8/17.
  */
-public class AD {
+public class Ad {
     private long id;
     private long userId;
     private String title;
     private String description;
 
-    public AD(long id, long userId, String title, String description) {
+    public Ad(long id, long userId, String title, String description) {
         this.id = id;
         this.userId = userId;
         this.title = title;
